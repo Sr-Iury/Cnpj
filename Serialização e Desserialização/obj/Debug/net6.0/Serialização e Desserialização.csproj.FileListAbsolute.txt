@@ -1,0 +1,15 @@
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\bin\Debug\net6.0\Serialização e Desserialização.exe
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\bin\Debug\net6.0\Serialização e Desserialização.deps.json
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\bin\Debug\net6.0\Serialização e Desserialização.runtimeconfig.json
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\bin\Debug\net6.0\Serialização e Desserialização.dll
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\bin\Debug\net6.0\Serialização e Desserialização.pdb
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.csproj.AssemblyReference.cache
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.AssemblyInfoInputs.cache
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.AssemblyInfo.cs
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.csproj.CoreCompileInputs.cache
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.dll
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\refint\Serialização e Desserialização.dll
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.pdb
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\Serialização e Desserialização.genruntimeconfig.cache
+C:\Users\Iury\Documents\Revisão pra a prova\Serialização e Desserialização\Serialização e Desserialização\obj\Debug\net6.0\ref\Serialização e Desserialização.dll
